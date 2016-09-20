@@ -1,1 +1,25 @@
-/* Pon tu código css aqui */
+.body
+      {
+      	margin: 0px;
+      	padding: 0px;
+      }
+
+.caja {
+	    width: 200px;
+        height: 200px;
+        position: relative;
+	          
+}
+.uno {
+	    background-color: #ee3e64;
+	    width: 120px;
+	    height: 80px;
+} 
+.dos { background-color: #44accf;
+	    width: 120px;
+	    height: 80px;
+	    left: 120px;
+}
+.tres { background-color: #b7d84b;
+	    width: 120px;
+	    height: 80px;}/* Pon tu código css aqui *//* Pon tu código css aqui */
