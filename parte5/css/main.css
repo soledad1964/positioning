@@ -1,1 +1,41 @@
-/* Pon tu código css aqui */
+.body
+      {
+      	margin: 0px;
+      	padding: 0px;
+      }
+
+.caja {
+	    width: 200px;
+        height: 200px;
+        position: absolute;
+	          
+}
+.uno {
+	    background-color: #ee3e64;
+	    width: 120px;
+	    height: 80px;
+	    left: 0px;
+	    top: 0px;
+} 
+.dos { 
+	    background-color: #44accf;
+	    width: 120px;
+	    height: 80px;
+	    right: 0px;
+	    top: 0px;
+}
+.tres {
+        background-color: #b7d84b;
+	    width: 120px;
+	    height: 80px;
+	    left: 0px;
+	    bottom: 0px;
+}
+.cuatro {
+	    background-color: yellow;
+	    width: 120px;
+	    height: 80px;
+	    right: 0px;
+	    bottom: 0px;
+
+}	
